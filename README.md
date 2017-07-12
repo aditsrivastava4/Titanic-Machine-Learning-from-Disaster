@@ -1,5 +1,6 @@
 # Titanic-Machine-Learning-from-Disaster
-This is my try of using Kaggle dataset of Titanic-Machine-Learning-from-Disaster you can get the dataset at https://www.kaggle.com/c/titanic/data.
+This is my try of using Kaggle dataset of Titanic-Machine-Learning-from-Disaster.
+The dataset is available at https://www.kaggle.com/c/titanic/data.
 I have used Decision Tree Classifier.
 
 The dependencies I used are 
