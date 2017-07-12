@@ -6,6 +6,6 @@ I have used Decision Tree Classifier for it.
 The dependencies I used are 
 1. Pandas
 2. Numpy
-3. SKlearn
+3. Sklearn
 
 I would love to see if any of u can make it more better.
